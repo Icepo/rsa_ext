@@ -35,7 +35,7 @@ require github.com/Icepo/rsa_ext v1.0.0
 
 * 私钥支持`pkcs8`和`pkcs1`两种模式
 
-* 使用base64的模式密钥形式记得去掉头尾
+* 使用base64的密钥形式记得去掉头尾
 
 
 
