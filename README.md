@@ -5,6 +5,22 @@
 
 
 
+### 用法
+
+```go
+import "github.com/Icepo/rsa_ext"
+```
+
+
+
+### go mod
+
+```go
+require github.com/Icepo/rsa_ext v1.0.0
+```
+
+
+
 ### 密钥对生成
 
 ```go
